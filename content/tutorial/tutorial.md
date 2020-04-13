@@ -16,17 +16,17 @@ Hindi kailangan ng nakaraang karanasan sa React para i-kumpleto itong tutorial.
 
 ## Bago Natin Umpisahan ang Tutorial {#bago-natin-umpisahan-ang-tutorial}
 
-Gagawa tayo ng munting laro gamit nitong tutorial. **Maaaring gusto mong laktawan ito kasi hindi mo gustong gumawa ng laro -- pero bigyan mo ng pagkakataon.** Ang mga pamamaraan na matututo mo sa itong tutorial ay napakahalaga sa pag-gawa ng anumang aplikasyon na gamit ang React. Ang pagdadalubhasa sa mga pangunahing kakayahan ay magbibigay ng malalim na pag-unawa ng React.
+Gagawa tayo ng munting laro gamit nitong tutorial. **Maaaring gusto mong laktawan ito kasi hindi mo gustong gumawa ng laro -- pero bigyan mo ng pagkakataon.** Ang mga pamamaraan na matututo mo sa itong tutorial ay napakahalaga sa pag-gawa ng anumang aplikasyon na gamit ang React. Ang pagdadalubhasa sa mga pangunahing kakayahan ay mag-bibigay ng malalim na pag-unawa ng React.
 
 >Payo
 >
 >Itong tutorial ay para sa mga taong mas gusto ang **matuto sa pamamagitan ng pag-gawa.** Kung mas gusto mong matutunan ang mga konsepto ng React mula sa simula, tingnan mo ang aming [bai-baitang gabay](/docs/hello-world.html). Maaaring itong tutorial at gabay ay parehong makatulong sa iyong pag-aaral.
 
-The tutorial is divided into several sections:
+Itong tutorial ay nakahati sa ilang mga seksyon:
 
-* [Setup for the Tutorial](#setup-for-the-tutorial) will give you **a starting point** to follow the tutorial.
-* [Overview](#overview) will teach you **the fundamentals** of React: components, props, and state.
-* [Completing the Game](#completing-the-game) will teach you **the most common techniques** in React development.
+* [Pag-setup para sa Tutorial](#pag-setup-para-sa-tutorial) ay mag-bibigay ng **panimulang punto** para maka-sunod ka sa tutorial.
+* [Pangkalahatang Ideya](#pangkalahatang-ideya) ay ituturo ang **mga pundasyon** ng React: components, props, at state.
+* [Pag-kumpleto ng Laro](#pag-kumpleto-ng-laro) ay ituturo ang **mga pinaka-karaniwang kasayanan** sa pag-gamit ng React.
 * [Adding Time Travel](#adding-time-travel) will give you **a deeper insight** into the unique strengths of React.
 
 You don't have to complete all of the sections at once to get the value out of this tutorial. Try to get as far as you can -- even if it's one or two sections.
