@@ -12,7 +12,7 @@ redirect_from:
   - "docs/tutorial-zh-CN.html"
 ---
 
-This tutorial doesn't assume any existing React knowledge.
+Hindi kailangan ng nakaraang karanasan sa React para i-kumpleto itong tutorial.
 
 ## Before We Start the Tutorial {#before-we-start-the-tutorial}
 
