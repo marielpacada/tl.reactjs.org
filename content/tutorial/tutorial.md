@@ -16,11 +16,11 @@ Hindi kailangan ng nakaraang karanasan sa React para i-kumpleto itong tutorial.
 
 ## Bago Natin Umpisahan ang Tutorial {#bago-natin-umpisahan-ang-tutorial}
 
-Gagawa tayo ng munting laro gamit nitong tutorial. **You might be tempted to skip it because you're not building games -- but give it a chance.** The techniques you'll learn in the tutorial are fundamental to building any React app, and mastering it will give you a deep understanding of React.
+Gagawa tayo ng munting laro gamit nitong tutorial. **Maaaring gusto mong laktawan ito kasi hindi mo gustong gumawa ng laro -- pero bigyan mo ng pagkakataon.** Ang mga pamamaraan na matututo mo sa itong tutorial ay napakahalaga sa pag-gawa ng anumang aplikasyon na gamit ang React. Ang pagdadalubhasa sa mga pangunahing kakayahan ay magbibigay ng malalim na pag-unawa ng React.
 
->Tip
+>Payo
 >
->This tutorial is designed for people who prefer to **learn by doing**. If you prefer learning concepts from the ground up, check out our [step-by-step guide](/docs/hello-world.html). You might find this tutorial and the guide complementary to each other.
+>Itong tutorial ay para sa mga taong mas gusto ang **matuto sa pamamagitan ng pag-gawa.** Kung mas gusto mong matutunan ang mga konsepto ng React mula sa simula, tingnan mo ang aming [bai-baitang gabay](/docs/hello-world.html). Maaaring itong tutorial at gabay ay parehong makatulong sa iyong pag-aaral.
 
 The tutorial is divided into several sections:
 
