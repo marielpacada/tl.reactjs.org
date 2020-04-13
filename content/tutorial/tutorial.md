@@ -1,6 +1,6 @@
 ---
 id: tutorial
-title: "Tutorial: Intro to React"
+title: "Tutorial: Pag-pakilala sa React"
 layout: tutorial
 sectionid: tutorial
 permalink: tutorial/tutorial.html
@@ -14,9 +14,9 @@ redirect_from:
 
 Hindi kailangan ng nakaraang karanasan sa React para i-kumpleto itong tutorial.
 
-## Before We Start the Tutorial {#before-we-start-the-tutorial}
+## Bago Natin Umpisahan ang Tutorial {#bago-natin-umpisahan-ang-tutorial}
 
-We will build a small game during this tutorial. **You might be tempted to skip it because you're not building games -- but give it a chance.** The techniques you'll learn in the tutorial are fundamental to building any React app, and mastering it will give you a deep understanding of React.
+Gagawa tayo ng munting laro gamit nitong tutorial. **You might be tempted to skip it because you're not building games -- but give it a chance.** The techniques you'll learn in the tutorial are fundamental to building any React app, and mastering it will give you a deep understanding of React.
 
 >Tip
 >
@@ -78,7 +78,7 @@ This setup requires more work but allows you to complete the tutorial using an e
 npx create-react-app my-app
 ```
 
-3. Delete all files in the `src/` folder of the new project 
+3. Delete all files in the `src/` folder of the new project
 
 > Note:
 >
