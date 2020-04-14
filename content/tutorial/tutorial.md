@@ -14,7 +14,7 @@ redirect_from:
 
 Hindi kailangan ng nakaraang karanasan sa React para i-kumpleto itong tutorial.
 
-## Bago Natin Umpisahan ang Tutorial {#bago-natin-umpisahan-ang-tutorial}
+## Bago Natin Umpisahan ang Tutorial {#before-we-start-the-tutorial}
 
 Gagawa tayo ng munting laro gamit nitong tutorial. **Maaaring gusto mong laktawan ito kasi hindi mo gustong gumawa ng laro -- pero bigyan mo ng pagkakataon.** Ang mga pamamaraan na matututo mo sa itong tutorial ay napakahalaga sa pag-gawa ng anumang aplikasyon na gamit ang React. Ang pagdadalubhasa sa mga pangunahing kakayahan ay mag-bibigay ng malalim na pag-unawa ng React.
 
@@ -24,12 +24,12 @@ Gagawa tayo ng munting laro gamit nitong tutorial. **Maaaring gusto mong laktawa
 
 Itong tutorial ay nakahati sa ilang mga seksyon:
 
-* [Pag-setup para sa Tutorial](#pag-setup-para-sa-tutorial) ay mag-bibigay ng **panimulang punto** para maka-sunod ka sa tutorial.
-* [Pangkalahatang Ideya](#pangkalahatang-ideya) ay ituturo ang **mga pundasyon** ng React: components, props, at state.
-* [Pag-kumpleto ng Laro](#pag-kumpleto-ng-laro) ay ituturo ang **mga pinaka-karaniwang kasayanan** sa pag-gamit ng React.
-* [Adding Time Travel](#adding-time-travel) will give you **a deeper insight** into the unique strengths of React.
+* [Pag-setup para sa Tutorial](#setup-for-the-tutorial) ay mag-bibigay ng **panimulang punto** para maka-sunod ka sa tutorial.
+* [Pangkalahatang Ideya](#overview) ay ituturo ang **mga pundasyon** ng React: components, props, at state.
+* [Pag-kumpleto ng Laro](#completing-the-game) ay ituturo ang **mga pinaka-karaniwang kasayanan** sa pag-gamit ng React.
+* [Adding Time Travel](#adding-time-travel) ay mag-bibigay ng **mas-malalim na pag-unawa** sa mga natatanging lakas ng React.
 
-You don't have to complete all of the sections at once to get the value out of this tutorial. Try to get as far as you can -- even if it's one or two sections.
+Hindi mo kailangang i-kumpleto lahat ng mga sekyon sa isang subok para ma-intindihan ang itong tutorial. Try to get as far as you can -- even if it's one or two sections.
 
 ### What Are We Building? {#what-are-we-building}
 
